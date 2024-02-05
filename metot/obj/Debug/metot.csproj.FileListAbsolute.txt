@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\metot\metot\obj\Debug\metot.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\metot\metot\obj\Debug\metot.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\metot\metot\obj\Debug\metot.Form1.resources
+C:\Users\User\source\repos\metot\metot\obj\Debug\metot.Properties.Resources.resources
+C:\Users\User\source\repos\metot\metot\obj\Debug\metot.csproj.GenerateResource.cache
+C:\Users\User\source\repos\metot\metot\obj\Debug\metot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\metot\metot\bin\Debug\metot.exe.config
+C:\Users\User\source\repos\metot\metot\bin\Debug\metot.exe
+C:\Users\User\source\repos\metot\metot\bin\Debug\metot.pdb
+C:\Users\User\source\repos\metot\metot\obj\Debug\metot.exe
+C:\Users\User\source\repos\metot\metot\obj\Debug\metot.pdb
